@@ -1,0 +1,4 @@
+module tb_AHB_slave;
+
+
+endmodule

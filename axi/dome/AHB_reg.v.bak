@@ -1,0 +1,6 @@
+module AHB_reg(
+
+);
+
+
+endmodule
